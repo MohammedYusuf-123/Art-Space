@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Art Space</string>
+    <string name="image_1_artist">Dave Copper</string>
+    <string name="image_2_artist">Harry Stipe</string>
+    <string name="image_3_artist">Garry Bieber</string>
+    <string name="image_4_artist">Gabe Tyson</string>
+    <string name="image_1_year">(2015)</string>
+    <string name="image_2_year">(2017)</string>
+    <string name="image_3_year">(2018)</string>
+    <string name="image_4_year">(2022)</string>
+    <string name="image_1_title">Dog</string>
+    <string name="image_2_title">Horse</string>
+    <string name="image_3_title">Nature Night Time</string>
+    <string name="image_4_title">Nature Day Time</string>
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
 </resources>
