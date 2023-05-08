@@ -140,7 +140,7 @@ fun ArtSpaceImageWithText(
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Bottom,
         modifier = Modifier
-            .padding(bottom = 100.dp)
+            .padding(bottom = 80.dp)
             .fillMaxWidth()
             .fillMaxSize()
             .wrapContentWidth(Alignment.CenterHorizontally)
